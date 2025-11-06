@@ -12,7 +12,7 @@ The Habit Tracker with Calendar View
   </a>
 </p>
 
-<H2>
+<h2>Explanation</h2>
 <h3>1. Project Choice</h3>
 <p>I chose <strong>Project #5: The Habit Tracker with Calendar View</strong> – a motivational personal development tool designed  to help users build and maintain habits through a calendar-based interface with visual progress tracking and insightful analytics.</p>
 
